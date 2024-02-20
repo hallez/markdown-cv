@@ -1,34 +1,29 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Halle Dimsdale-Zucker's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Halle Dimsdale-Zucker
+900 University Avenue
+Riverside, CA 92521
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="halledz@ucr.edu">halledz@ucr.edu</a>
+| <a href="https://dzlab.ucr.edu/">Dimsdale-Zucker Memory and Context Lab Website</a>
 </div>
 
 
-## Currently
+## Academic Appointments
+`2023-current`
+__Assistant Professor, University of California, Riverside, CA__
 
-Standing on the shoulders of giants
+## Education and Training
 
-### Specialized in
+`2019-2023`
+__Postdoc__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
+- Supervisor: Dr. Christopher Baldassano
+- Co-supervised by Dr. Mariam Aly, 2019-2021
+- Columbia University, New York, NY
 
 `June 1661 - now`
 __Trinity College, Cambridge__
