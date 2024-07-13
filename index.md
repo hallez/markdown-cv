@@ -3,6 +3,8 @@ layout: cv
 title: Halle Dimsdale-Zucker's CV
 ---
 # Halle Dimsdale-Zucker
+Assistant Professor
+University of California, Riverside
 900 University Avenue
 Riverside, CA 92521
 
