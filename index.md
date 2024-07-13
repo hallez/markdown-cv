@@ -27,15 +27,22 @@ __Postdoc__
 - Co-supervised by Dr. Mariam Aly, 2019-2021
 - Columbia University, New York, NY
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013-2019`
+__Ph.D. in Cognitive Neuroscience__
 
-- Sizar
+- Supervisor: Dr. Charan Ranganath
+- University of California, Davis, CA
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2015`
+__M.A. in Cognitive Neuroscience__
 
-- Fellow
+- University of California, Davis, CA
+
+`2006-2010`
+__B.A. with Distinction in Brain, Behavior, and Cognitive Sciences and English__
+
+- Thesis with High Honors: "Multiple memory systems? Serial position dependent false memory effects"
+- University of Michigan, Ann Arbor, MI
 
 
 
