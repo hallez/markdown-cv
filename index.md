@@ -50,9 +50,50 @@ __B.A. with Distinction in Brain, Behavior, and Cognitive Sciences and English__
 ## Honors and Awards
 
 `2023`
-Elected as Fellow, *UC Irvine Center for the Neurobiology of Learning and Memory*, https://cnlm.uci.edu/about/fellows/
+Elected as a [UC Irvine Center for the Neurobiology of Learning and Memory](https://cnlm.uci.edu/about/fellows/) Fellow 
 
-Associate, *French Academy of Science*, Paris, France
+Elected as member of the [Memory Disorders Research Society](https://www.memorydisorders.org/)
+
+`2022`
+[Columbia University Postdoc Society](https://blogs.cuit.columbia.edu/postdocsociety/postdoc-of-the-month/) "Postdoc of the Month"
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peer Nomination
+
+F32 National Research Service Award
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Eye Institute (NEI)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal award number: F32EY032352
+
+`2019`
+UC Davis Psychology Professional Development Award
+
+`2018`
+UC Davis Graduate Student Travel Award
+
+`2017`
+UC Davis Dukes Travel Award
+
+`2016`
+Don Owings Memorial Award
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Best talk at the UC Davis Psychology Department Conference
+
+UC Davis Dukes Travel Award
+
+`2013`
+National Science Foundation Graduate Research Fellowship
+
+`2011`
+Boston College Research Expense Grant
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-written with Dr. Elizabeth A. Kensinger
+
+`2009`
+Hellman Honors Award
+
+`2008`
+Tanner Memorial Award
 
 
 
