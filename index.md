@@ -46,10 +46,10 @@ __B.A. with Distinction in Brain, Behavior, and Cognitive Sciences and English__
 
 
 
-## Awards
+## Honors and Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2023`
+Elected as Fellow, *UC Irvine Center for the Neurobiology of Learning and Memory*, https://cnlm.uci.edu/about/fellows/
 
 Associate, *French Academy of Science*, Paris, France
 
