@@ -72,20 +72,17 @@ National Science Foundation Graduate Research Fellowship
 
 ## Publications
 
-<!-- A list is also available [online](https://www.ncbi.nlm.nih.gov/myncbi/18inxwwB7tUAD/bibliography/public/) -->
+*A full list is also available [online](https://www.ncbi.nlm.nih.gov/myncbi/18inxwwB7tUAD/bibliography/public/)*
+
 \* equal contribution
 
 mentored postdoc^^^, graduate student^^, and undergraduate student^ authors
 
 ### Preprints and manuscripts under review
+//TODO figure out italics
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2023`
+Geva-Sagiv, M., *Dimsdale-Zucker, H.R.*, Williams, A.B., & Ranganath, C. (2023). Proximity to boundaries reveals spatial context representation in human hippocampal CA1. Neuropsychologia. doi: https://doi.org/10.1016/j.neuropsychologia.2023.108656
 
 ### Patents
 
