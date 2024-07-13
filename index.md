@@ -72,9 +72,12 @@ National Science Foundation Graduate Research Fellowship
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://www.ncbi.nlm.nih.gov/myncbi/18inxwwB7tUAD/bibliography/public/) -->
+\* equal contribution
 
-### Journals
+mentored postdoc^^^, graduate student^^, and undergraduate student^ authors
+
+### Preprints and manuscripts under review
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
