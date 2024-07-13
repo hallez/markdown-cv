@@ -42,6 +42,7 @@ __M.A. in Cognitive Neuroscience__
 __B.A. with Distinction in Brain, Behavior, and Cognitive Sciences and English__
 
 - Thesis with High Honors: "Multiple memory systems? Serial position dependent false memory effects"
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Dr. Patricia A. Reuter-Lorenz
 - University of Michigan, Ann Arbor, MI
 
 
